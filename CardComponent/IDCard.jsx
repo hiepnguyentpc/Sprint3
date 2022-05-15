@@ -20,7 +20,6 @@ const IDCard = ({IDData}) => {
       <Image style={styles.image } source={{url: image}} />
       <View style={styles.card}>
         <View style={{ flexDirection: "column", marginLeft: 25, top: 4 }}>
-          
           <Text style={styles.description}>{name}</Text>
           <Text style={styles.tag}>
             Ngày sinh:
@@ -42,7 +41,6 @@ const IDCard = ({IDData}) => {
             Nơi cư trú:
             <Text style={styles.description}>{address}</Text>
           </Text>
-          
         </View>
 
 
