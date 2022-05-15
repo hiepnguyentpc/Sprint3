@@ -1,0 +1,32 @@
+[
+    {
+        "name": "NGUYỄN HUY TRUNG",
+        "birthdate": " 15-02-1967",
+        "email_address": " huytrung2290@gmail.com",
+        "phone": " 0123456789",
+        "hometown": " Thái Bình",
+        "address": " Thành phố Thái Bình",
+        "img_url": ""
+    },
+        
+    {
+        "name": "PHÙNG HOÀI NAM",
+        "birthdate": " 18-01-1979",
+        "email_address": " hoainam123@gmail.com",
+        "phone": " 0123456789",
+        "hometown": " Thái Bình",
+        "address": " Kiến Xương - Thái Bình",
+        "img_url": ""
+    },
+
+    {
+        "name": "ĐỖ THỊ HÀ THANH",
+        "birthdate": " 16-01-1973",
+        "email_address": " hathanh1973@gmail.com",
+        "phone": " 0123456789",
+        "hometown": " Thái Bình",
+        "address": " Thành phố Thái Bình",
+        "img_url": ""
+    }
+
+]
