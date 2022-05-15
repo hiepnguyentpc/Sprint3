@@ -24,12 +24,14 @@ const styles = StyleSheet.create({
     },
     tag: {
       fontSize: 16,
-      fontWeight: "light",
+      fontWeight: "normal",
       marginBottom: 5,
       color: "#293649",
     },
     image: {
-      marginLeft: 0,
+      height: 60,
+      width: 60,
+      marginRight: 5,
       right: -30,
       top: 20,
       borderRadius: 10,

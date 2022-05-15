@@ -11,13 +11,13 @@ const IDCard = ({IDData}) => {
     phone,
     hometown,
     address,
-    img_url,
+    image,
   } = IDData;
-
+  console.log(image)
 
   return (
     <View style={{flexDirection: "row"}}>
-      <Image style={styles.image} source={require("../assets/1.png")} />
+      <Image style={styles.image } source={{url: image}} />
       <View style={styles.card}>
         <View style={{ flexDirection: "column", marginLeft: 25, top: 4 }}>
           
@@ -42,6 +42,7 @@ const IDCard = ({IDData}) => {
             Nơi cư trú:
             <Text style={styles.description}>{address}</Text>
           </Text>
+          
         </View>
 
 
