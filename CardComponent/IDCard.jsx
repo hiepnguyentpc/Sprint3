@@ -16,6 +16,7 @@ const IDCard = ({IDData}) => {
 
   return (
     <View style={{flexDirection: "row"}}>
+    
       <Image style={styles.image } source={{url: image}} />
       <View style={styles.card}>
         <View style={{ flexDirection: "column", marginLeft: 25, top: 4 }}>
