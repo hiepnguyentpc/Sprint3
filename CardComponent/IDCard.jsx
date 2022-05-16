@@ -13,7 +13,6 @@ const IDCard = ({IDData}) => {
     address,
     image,
   } = IDData;
-  console.log(image)
 
   return (
     <View style={{flexDirection: "row"}}>
